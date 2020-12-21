@@ -1,5 +1,5 @@
 # Brain-Tumor-Classification-Using-Convolutional-Neural-Networks
-In this project we try to create a neural network model which can be used to predict the class of the Magnetic Resonance Image (​MRI) scan if there exists any of the following types of tumor
+In this project we create a neural network model which can be used to predict the class of the Magnetic Resonance Image (​MRI) scan if there exists any of the following types of tumor
 - Meningioma
 - Glioma 
 - Pituitary tumor. 
